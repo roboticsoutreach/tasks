@@ -1,7 +1,7 @@
 # Tasks
 This is the tasks page for the society. Sourcebots related tasks should be placed at the sourcebots repo. 
 
-# Quick explnation of tags
+# Quick explanation of tags
 There are 3 kinds of tags:
 - Tags related to its urgency 
 - Tags related to the society role. 
